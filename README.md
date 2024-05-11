@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm Im Juwon🐱
 
 ## ❓Who Am I
-- 안녕하세요 임주원입니다. 
+- 임주원입니다. 
 
 ## 🥰 Interest
 - **Natural Language Processing**
@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 &emsp;&emsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juwon5989@gmial.com)
 
 ## ✨ Stats
-&emsp;&emsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koko1346)](https://solved.ac/koko1346/)<br>
+<!--&emsp;&emsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koko1346)](https://solved.ac/koko1346/)<br>-->
 &emsp;&emsp;[![GitHub stats](https://github-readme-stats.vercel.app/api?username=juooni)](https://github.com/juooni/github-readme-stats)
