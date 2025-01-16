@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - (23.07.19 ~ 23.08.09) **Play Instructor, 2023 Advanced Technology Specialist Program of Seoul Metropolitan Office of Education** <br>&emsp;&emsp;| 보조강사, 서울시교육청 2023 신기술 분야 전문가 과정
 - (23.07.01 ~ ) **AIKU, AI Society of Korea University** <br>&emsp;&emsp;| 고려대학교 딥러닝 학회 AIKU
 - (23.12.18 ~ 24.02.29) **SKT FLY AI Challenger** <br>&emsp;&emsp;| SKT FLY AI Challenger 부트캠프
+- (24.07.01 ~ ) **GDG on KU, Google Developer Groups on Korea University**
 
 
 ## 🎖 Awards
