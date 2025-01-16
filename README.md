@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **Multimodal AI**
 
 ## 🎓 Education
-- **Korea University(currently enrolled)** | 고려대학교 재학
+- **Korea University(graduated)** | 고려대학교 졸업
   - **Major: Korean Langauge & Literature** 
   - **Double Major: Computer Science & Engineering** 
 
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 ## 🎖 Awards
 - (23.08.25) **3rd AIKUTHON - 2nd Place Award** <br>&emsp;&emsp;| 제3회 AIKUTHON - 2등
 - (23.09.18 ~ 23.12.23) **2023-2 Project Conference of AIKU - 1st Place Award** <br>&emsp;&emsp;| 2023-2 딥러닝 학회 AIKU 프로젝트 컨퍼런스 - 1등
+- (24.03.01 ~ 24.07.23) **2024-1 Project Conference of AIKU - 1st Place Award** <br>&emsp;&emsp;| 2024-1 딥러닝 학회 AIKU 프로젝트 컨퍼런스 - 1등
+- (24.09.01 ~ 24.09.23) **2024-2 Project Conference of AIKU - 2st Place Award** <br>&emsp;&emsp;| 2024-2 딥러닝 학회 AIKU 프로젝트 컨퍼런스 - 2등
 
 ## 🛠️ Skills
 - Language <br>
@@ -55,11 +57,13 @@ Here are some ideas to get you started:
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
+- OS <br>
+  ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 - ETC <br>
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   
 ## 📫 Contacts
