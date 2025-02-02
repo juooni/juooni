@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - (23.09.18 ~ 23.12.23) **2023-2 Project Conference of AIKU - 1st Place Award** <br>&emsp;&emsp;| 2023-2 딥러닝 학회 AIKU 프로젝트 컨퍼런스 - 1등
 - (24.03.01 ~ 24.07.23) **2024-1 Project Conference of AIKU - 1st Place Award** <br>&emsp;&emsp;| 2024-1 딥러닝 학회 AIKU 프로젝트 컨퍼런스 - 1등
 - (24.09.01 ~ 24.09.23) **2024-2 Project Conference of AIKU - 2st Place Award** <br>&emsp;&emsp;| 2024-2 딥러닝 학회 AIKU 프로젝트 컨퍼런스 - 2등
-
+<!--
 ## 🛠️ Skills
 - Language <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   
 ## 📫 Contacts
 &emsp;&emsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juwon5989@gmial.com)
-
+-->
 ## ✨ Stats
 <!--&emsp;&emsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koko1346)](https://solved.ac/koko1346/)<br>-->
 &emsp;&emsp;[![GitHub stats](https://github-readme-stats.vercel.app/api?username=juooni)](https://github.com/juooni/github-readme-stats)
